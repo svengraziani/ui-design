@@ -1,0 +1,18 @@
+{
+  "name": "ui-design",
+  "version": "1.0.0",
+  "description": "UI design skills: color palettes, typography, component patterns, design principles, and WCAG 2.2 accessibility guidelines",
+  "author": {
+    "name": "Sven Graziani"
+  },
+  "keywords": [
+    "ui",
+    "design",
+    "css",
+    "accessibility",
+    "wcag",
+    "colors",
+    "typography",
+    "components"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ui-design",
+  "owner": {
+    "name": "Sven Graziani"
+  },
+  "metadata": {
+    "description": "UI design skills: color palettes, typography, component patterns, design principles, and WCAG 2.2 accessibility guidelines",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ui-design",
+      "description": "UI design skills: color palettes, typography, component patterns, design principles, and WCAG 2.2 accessibility guidelines",
+      "source": "./"
+    }
+  ]
+}
